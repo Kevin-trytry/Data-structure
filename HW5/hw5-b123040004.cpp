@@ -1,4 +1,4 @@
-// Name : B123040004 ²ø§Ó¤å
+// Name : B123040004 èŽŠå¿—æ–‡
 // Date : 2024/10/20
 // Purpose : Using linked list to perform the polynomial adding and multiplying 
 
@@ -181,7 +181,7 @@ void Poly::printPoly() {
 }
 
 int main( ) {
-    int P, Q; // P¡BQ means how many terms of the two polynomial respectively
+    int P, Q; // Pï¿½BQ means how many terms of the two polynomial respectively
     int count = 1; // record the n-th test case
     while (true) {
         int input_coefficient, input_exponent; // the coefficient and exponent the user inputs

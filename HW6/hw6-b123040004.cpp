@@ -1,4 +1,4 @@
-// Name : B123040004 ²ø§Ó¤å
+// Name : B123040004 èŽŠå¿—æ–‡
 // Date : 2024/11/11
 // Purpose : Input a list of numeral integers, and find out which one appears odd times
 

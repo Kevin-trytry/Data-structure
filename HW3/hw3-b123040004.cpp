@@ -1,4 +1,4 @@
-// Name : B123040004 ²ø§Ó¤å
+// Name : B123040004 èŽŠå¿—æ–‡
 // Date : 2024/10/09
 // Purpose : Print out the ways of going through the checkerboard of the knight
 #include <iostream>
