@@ -1,4 +1,4 @@
-// Name : B123040004 ²ø§Ó¤å
+// Name : B123040004 èŽŠå¿—æ–‡
 // Date : Sept.19, 2024
 // Purpose : print out the factorial and the maximum is 50!
 
