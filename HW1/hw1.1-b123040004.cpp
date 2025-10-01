@@ -1,4 +1,4 @@
-// Name : B123040004 ²ø§Ó¤å
+// Name : B123040004 èŽŠå¿—æ–‡
 // Date : Sept.10, 2024
 // Purpose : Build up the odd magic square from 1 * 1 to 9 * 9
 
@@ -82,7 +82,7 @@ void deleteTheMatrix(int **arr, int n) {
 int main( ) {
 	//print out the matrix from 1 to 9
 	for(int i = 1; i <= 9; i += 2) { 
-		cout << i << " x " << i << " Å]¤è°}: " << endl;
+		cout << i << " x " << i << " Ã…]Â¤Ã¨Â°}: " << endl;
 		buildMatrix(i);
 		cout << endl;
 	}
